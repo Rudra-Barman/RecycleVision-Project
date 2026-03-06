@@ -34,7 +34,7 @@ The trained model is integrated into a **Streamlit web application** that allows
 
 This project uses the **Garbage Classification Dataset (TrashNet)**.
 
-Dataset contains **2532 images** across **6 classes**:
+Dataset contains **2527 images** across **6 classes**:
 
 - Cardboard
 - Glass
